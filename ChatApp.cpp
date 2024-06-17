@@ -188,7 +188,7 @@ void page1()
 {
     int flag=0,choice;
 
-cout<<"\n\t\t\t WELCOME TO THE V-MESSENGER\n";
+cout<<"\n\t\t\t WELCOME TO THE CHATAPP\n";
 
 
 
