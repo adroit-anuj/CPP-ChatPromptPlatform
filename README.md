@@ -28,8 +28,6 @@ This project is a command-line chat application built in C++. It allows users to
   - Inheritance (`author`, `frnd` inherit from `hierarchy`) is utilized to reuse code and establish relationships between classes.
 - **File Handling**:
   - Users' data (username and password) are stored in a `map`.
-- **User Input Handling**:
-  - `cin` is used for taking user input throughout the application.
 - **String Manipulation**:
   - Various string operations (`strcpy`, `strcat`, `getline`) are used for message handling and user interaction.
 - **Control Structures**:
