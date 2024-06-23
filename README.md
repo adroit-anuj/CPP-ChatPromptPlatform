@@ -37,7 +37,7 @@ This project is a command-line chat application built in C++. It allows users to
 ## Running the Application
 
 To run the application:
-1. Compile the source code (`main.cpp`) using a C++ compiler.
+1. Compile the source code (`CPP.cpp`) in your C++ compiler.
 2. Execute the compiled executable in your command prompt/console.
 
 ## Here's a small video, showing some of the features of CPP:-
