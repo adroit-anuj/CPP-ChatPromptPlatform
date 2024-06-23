@@ -207,7 +207,7 @@ void homepage()
 {
         int flag=0,choice;
 
-    cout<<"\n\t\t\t WELCOME TO THE CHATAPP\n";
+    cout<<"\n\t\t\t WELCOME TO THE CPP - ChatPromptPlatform \n";
     while(true)
     {
 
