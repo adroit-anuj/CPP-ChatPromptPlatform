@@ -42,8 +42,9 @@ To run the application:
 
 ## Here's a small video, showing the features of CPP:-
 
-https://github.com/adroit-anuj/Chat_App-CPP-/assets/134070793/c44436a8-c5b7-4cd2-aa40-9840a76b14db
 
+
+https://github.com/adroit-anuj/Chat_App-CPP-/assets/134070793/4a159933-380e-47a3-a5a6-95dd05f993b5
 
 
 ## Future Improvements
