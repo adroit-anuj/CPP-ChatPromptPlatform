@@ -40,6 +40,12 @@ To run the application:
 1. Compile the source code (`main.cpp`) using a C++ compiler.
 2. Execute the compiled executable in your command prompt/console.
 
+## Here's a small video, showing the features of CPP:-
+
+https://github.com/adroit-anuj/Chat_App-CPP-/assets/134070793/c44436a8-c5b7-4cd2-aa40-9840a76b14db
+
+
+
 ## Future Improvements
 
 - **Enhanced User Interface**: Implementing a graphical user interface (GUI) for better user interaction.
