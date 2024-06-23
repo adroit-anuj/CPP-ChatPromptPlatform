@@ -40,7 +40,7 @@ To run the application:
 1. Compile the source code (`main.cpp`) using a C++ compiler.
 2. Execute the compiled executable in your command prompt/console.
 
-## Here's a small video, showing the features of CPP:-
+## Here's a small video, showing some of the features of CPP:-
 
 
 
