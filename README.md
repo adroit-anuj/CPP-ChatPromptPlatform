@@ -53,4 +53,4 @@ https://github.com/adroit-anuj/Chat_App-CPP-/assets/134070793/4a159933-380e-47a3
 - **Encryption**: Adding encryption for storing passwords securely.
 - **File Persistence**: Implementing file storage for user data to maintain user accounts across sessions.
 
-This command-line chat application serves as a basic implementation of a messaging system and can be expanded further with additional features and optimizations.
+CPP - ChatPromptPlatform serves as a basic implementation of a messaging system and can be expanded further with additional features and optimizations.
