@@ -34,6 +34,7 @@ This project is a command-line chat application built in C++. It allows users to
   - Various string operations (`strcpy`, `strcat`, `getline`) are used for message handling and user interaction.
 - **Control Structures**:
   - Loops (`for`, `while`) and conditional statements (`if`, `switch`) are used to control the flow of the application based on user input.
+  - Unconditional statements, like `goto`, are used to skip some part of the code based on user input.
 
 ## Running the Application
 
